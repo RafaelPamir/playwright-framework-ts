@@ -1,0 +1,8 @@
+{
+  "playwright.reuseBrowser": true,
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "search.exclude": {
+    "**/test-results": true,
+    "**/playwright-report": true
+  }
+}
